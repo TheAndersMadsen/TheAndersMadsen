@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a student at EASV.
+- :school: I am a student at [EASV](https://www.easv.dk/en/).
 - :technologist: I love using software as a solution for every `problem`.
 - :superhero_man: Interested in web exploitation.
 - :computer: I am a competitive programmer mainly at doing [sneakerbots](https://www.imperva.com/learn/application-security/sneaker-bot/). 
