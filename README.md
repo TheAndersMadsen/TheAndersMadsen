@@ -20,25 +20,6 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAndersMadsen&theme=algolia" alt="TheAndersMadsen" /></p>
-
-<br>
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:madsenanders97@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/TheAndersMadsen"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/anders-madsen-it/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/AndersDalsgaardMadsen/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/anders_madsen/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -66,31 +47,7 @@
   </a>
 </p>
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://shields.io/badge/MacOS-lightgrey?style=plastic&logo=macos&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
-</p>
-
-<br/>
-
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -110,6 +67,44 @@
    <a href="https://github.com/TheAndersMadsen"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheAndersMadsen&custom_title=TheAndersMadsen's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+
+<br/>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAndersMadsen&theme=algolia" alt="TheAndersMadsen" /></p>
+
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:madsenanders97@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/TheAndersMadsen"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/anders-madsen-it/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/AndersDalsgaardMadsen/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/anders_madsen/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+
+ ### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+</p>
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://shields.io/badge/MacOS-lightgrey?style=plastic&logo=macos&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
+</p>
 
 <br/>
 
