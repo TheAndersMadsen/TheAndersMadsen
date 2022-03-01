@@ -12,12 +12,13 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a student at EASV
-- :technologist: I love using Software as a solution for every `Problem`
+- :school: I am a student at EASV.
+- :technologist: I love using software as a solution for every `problem`.
+:superhero_man: Interested in web exploitation.
 - :computer: I am a competitive programmer mainly at doing [sneakerbots](https://www.imperva.com/learn/application-security/sneaker-bot/). 
 - :student: I’m currently learning: `Computer Science`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things`.
 
 <br>
 
