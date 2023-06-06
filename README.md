@@ -12,12 +12,9 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a student at [EASV](https://www.easv.dk/en/).
 - :technologist: I love using software as a solution for every `problem`.
 - :superhero_man: Interested in web exploitation.
 - :computer: I am a competitive programmer mainly doing [sneakerbots](https://www.imperva.com/learn/application-security/sneaker-bot/). 
-- :student: I’m currently learning: `Computer Science`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]().
 - :nerd_face: Always `learning new things`.
 
 <br>
@@ -54,7 +51,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAndersMadsen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anders' Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAndersMadsen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAndersMadsen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="TheAndersMadsen" height="192px"/>
