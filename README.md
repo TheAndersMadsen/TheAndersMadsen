@@ -58,15 +58,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/TheAndersMadsen"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheAndersMadsen&custom_title=TheAndersMadsen's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
 <br/>
 
 ## 🔥 Streak Stats
