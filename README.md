@@ -14,7 +14,7 @@
 ## :sassy_man:  About me
 - :technologist: I love using software as a solution for every `problem`.
 - :superhero_man: Interested in web exploitation.
-- :computer: I am a competitive programmer mainly doing [sneakerbots](https://www.imperva.com/learn/application-security/sneaker-bot/). 
+- :computer: I am a programmer who used to make [sneakerbots](https://www.imperva.com/learn/application-security/sneaker-bot/), but now I mainly work in the marketing industry making infrastructure work. 
 - :nerd_face: Always `learning new things`.
 
 <br>
