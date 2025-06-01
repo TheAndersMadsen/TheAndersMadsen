@@ -1,15 +1,7 @@
 <h1 align="center">Hi , I'm Anders Madsen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;Technologist;Always+interested+in+new+things;Loves+cybersecurity" alt="Typing SVG" /></a>
 </p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TheAndersMadsen&label=Profile%20views&color=0e75b6&style=plastic" alt="TheAndersMadsen" /> 
-</p>
-
 
 ## :sassy_man:  About me
 - :technologist: I love using software as a solution for every `problem`.
