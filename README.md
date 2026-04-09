@@ -60,17 +60,12 @@ That turned into a deeper interest in distributed systems, automation, performan
 - AI agent workflows
 - backend architecture
 - API integrations
+- reverse engineering
 - automation systems
 - attribution and redirect infrastructure
 - local model deployment
 - performance tuning
 - security-oriented problem solving
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheAndersMadsen&show_icons=true&count_private=true&theme=algolia&hide_border=true" alt="GitHub stats" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndersMadsen&layout=compact&theme=algolia&hide_border=true" alt="Top languages" height="180" />
 
 ## Streak Stats
 
